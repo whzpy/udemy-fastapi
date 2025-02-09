@@ -1,0 +1,13 @@
+{
+    "workbench.settings.useSplitJSON": false,
+    "javascript.preferences.organizeImports": {
+
+    },
+    "editor.tokenColorCustomizations": {
+   "variables": "#ff7b72",
+   "numbers": "#d19a66",
+   "strings": "#98c379",
+   "functions": "#61afef"
+}
+
+}
